@@ -1,6 +1,8 @@
 # 📚 BOOKSTORE APPLICATION | برنامه فروشگاه کتاب
 
 A desktop bookstore management and sales application built with Python and Tkinter.
+
+
 یک برنامه دسکتاپ مدیریت و فروش کتاب که با Python و Tkinter توسعه داده شده است.
 
 ---
